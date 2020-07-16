@@ -1,0 +1,25 @@
+{
+  "name": "com.thinkwisesoftware.update-quota",
+  "version": "1.0.0",
+  "description": "updatequota",
+  "cordova": {
+    "id": "com.thinkwisesoftware.update-quota",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orphisAG/updateQuota.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "thinkwise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orphisAG/updateQuota/issues"
+  },
+  "homepage": "https://github.com/orphisAG/updateQuota#readme"
+}
