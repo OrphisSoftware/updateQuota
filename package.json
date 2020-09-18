@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "updatequota",
   "cordova": {
-    "id": "com.thinkwisesoftware.update-quota",
+    "id": "@orphisag/com.thinkwisesoftware.update-quota",
     "platforms": [
       "ios"
     ]
