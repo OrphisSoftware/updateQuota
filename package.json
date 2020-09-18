@@ -1,5 +1,5 @@
 {
-  "name": "com.thinkwisesoftware.update-quota",
+  "name": "@orphisag/com.thinkwisesoftware.update-quota",
   "version": "1.0.0",
   "description": "updatequota",
   "cordova": {
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/orphisAG/updateQuota/issues"
   },
-  "homepage": "https://github.com/orphisAG/updateQuota#readme"
+  "homepage": "https://github.com/orphisAG/updateQuota#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
